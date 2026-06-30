@@ -207,6 +207,9 @@ NULL sale_date	0	Puuduv kuupäev
 NULL total_price	0	Puuduv summa
 Tuleviku kuupäevad	0	Kuupäev > tänane
 KOKKU probleeme	6603	5116 duplikaatset rida + 1487 puuduvat customer_id väärtust
+
+Mina puhastasin müügiandmeid. Leidsin 5116 duplikaatset rida ja 1487 NULL väärtust. See tähendab äriliselt, et müügiaruanded võivad olla ebatäpsed ning osa müüke ei ole võimalik konkreetsete klientidega siduda.
+
 Soovitus
 
 Toomas peaks esimesena eemaldama duplikaadid, sest neid on kõige rohkem (5116 rida) ning need võivad moonutada müügiaruandeid, käivet ja analüüse. Seejärel tuleks parandada või täiendada 1487 puuduvat customer_id väärtust, et kõik müügid oleksid seotud õige kliendiga. Kuna sale_date ja total_price väljad on korrektsed ning tuleviku kuupäevi ei esine, ei vaja need täiendavat puhastamist.

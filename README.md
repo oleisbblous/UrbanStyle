@@ -68,3 +68,7 @@ WHERE channel = 'pood';
 
 
 Nädal 2:
+Iseseisev töö: https://supabase.com/dashboard/project/jrkmbzgrdxffhdmbtvey/sql/a83f03a8-d802-4946-bfa6-bc50d8702d5f
+
+Grupitöö:
+

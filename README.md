@@ -69,6 +69,7 @@ WHERE channel = 'pood';
 
 Nädal 2:
 Iseseisev töö: https://supabase.com/dashboard/project/jrkmbzgrdxffhdmbtvey/sql/a83f03a8-d802-4946-bfa6-bc50d8702d5f
+Notebook LM: https://notebooklm.google.com/notebook/813980cc-2559-4fd8-a3e2-f833814e44c6
 
 Grupitöö:
 
